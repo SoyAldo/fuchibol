@@ -1,2 +1,3 @@
 DSports|https://fuchibol.cooktelicences.com/live/partido/index.m3u8
 TyC Sports|https://fuchibol.cooktelicences.com/live/tycsports/index.m3u8
+ESPN|https://fuchibol.cooktelicences.com/live/espn/index.m3u8
