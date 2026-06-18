@@ -6,4 +6,4 @@ Win Sports|https://futbol-libres.su/win-sports-premium
 TUDN|https://futbol-libres.su/tudn
 Fox Sports|https://futbol-libres.su/fox-sports
 TNT Sports|https://futbol-libres.su/tnt-sports
-Telefe|https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1781818357~exp=1781825557~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=f17750522f47a4ee24e6c6f1f8526f946587a9a6704154d24bf978a7fd609f8c
+Telefe|https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1781912833~acl=%2f*~data=hdntl~hmac=fdeb5aea7da603ad77741105ac46e30173317119927ecf441e69c70207a8d459/master-mtlf.m3u8
