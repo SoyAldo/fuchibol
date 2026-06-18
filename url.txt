@@ -1,2 +1,3 @@
 DSports|https://fuchibol.cooktelicences.com/live/dsports/index.m3u8
 Telefe|https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1781818357~exp=1781825557~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=f17750522f47a4ee24e6c6f1f8526f946587a9a6704154d24bf978a7fd609f8c
+DSports DIrect|https://futbol-libres.su/directv-sports
