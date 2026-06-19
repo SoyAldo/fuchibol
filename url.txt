@@ -1,8 +1,1 @@
 DSports Stream|https://fuchibol.cooktelicences.com/live/dsports/index.m3u8
-DSports|https://futbol-libres.su/directv-sports
-ESPN|https://futbol-libres.su/espn-1
-TyC Sports|https://futbol-libres.su/tyc-sports
-Win Sports|https://futbol-libres.su/win-sports-premium
-TUDN|https://futbol-libres.su/tudn
-Fox Sports|https://futbol-libres.su/fox-sports
-TNT Sports|https://futbol-libres.su/tnt-sports
