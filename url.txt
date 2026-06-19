@@ -1,1 +1,1 @@
-DSports Stream|https://fuchibol.cooktelicences.com/live/dsports/index.m3u8
+DSports|https://fuchibol.cooktelicences.com/live/dsports/index.m3u8
