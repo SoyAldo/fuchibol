@@ -6,7 +6,7 @@ Dposrts 4|http://190.223.48.46:8000/play/a028/index.m3u8
 Dsports 5|http://190.117.20.37:8000/play/a08d/index.m3u8
 TUDN|http://24.152.53.3:8090/play/a012/index.m3u8
 TyC Sports|http://tv.zeuspro.xyz:8080/peterordonez/OKEtJocXkL/157580
-Telefe|http://tv.zeuspro.xyz:8080/peterordonez/OKEtJocXkL/157590
+Telefe|http://200.115.120.1:8000/play/ca016/index.m3u8
 ESPN Premium|http://205.235.6.29:8000/play/a0pz/index.m3u8
 TNT Sport|http://205.235.6.29:8000/play/a0xa/index.m3u8
 TNT Sport Premium|http://205.235.6.29:8000/play/a104/index.m3u8
