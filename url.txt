@@ -1,1 +1,27 @@
-DSports|https://fuchibol.cooktelicences.com/live/dsports/index.m3u8
+DSports Stream|https://fuchibol.cooktelicences.com/live/dsports/index.m3u8
+DSports 1|http://190.108.83.69:8000/play/a05w/index.m3u8
+Dsports 2|http://181.64.27.65:8000/play/a0dq/index.m3u8
+Dsports 3|http://38.187.7.252:8000/play/a03d/index.m3u8
+Dposrts 4|http://190.223.48.46:8000/play/a028/index.m3u8
+Dsports 5|http://190.117.20.37:8000/play/a08d/index.m3u8
+TUDN|http://24.152.53.3:8090/play/a012/index.m3u8
+TyC Sports|http://tv.zeuspro.xyz:8080/peterordonez/OKEtJocXkL/157580
+Telefe|http://tv.zeuspro.xyz:8080/peterordonez/OKEtJocXkL/157590
+ESPN Premium|http://205.235.6.29:8000/play/a0pz/index.m3u8
+TNT Sport|http://205.235.6.29:8000/play/a0xa/index.m3u8
+TNT Sport Premium|http://205.235.6.29:8000/play/a104/index.m3u8
+ARG ESPN 1|http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327914
+ARG ESPN 2|http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327915
+ARG ESPN 3|http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327916
+ARG ESPN PREMIUM|http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327917
+ARG ESPN PREMIUM|http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/377719
+ARG ESPN HD|http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81262.ts
+ARG ESPN 2 SD|http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81259.ts
+ARG ESPN 2 HD|http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81258.ts
+ARG FOX SPORTS 2 HD|http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/50507.ts
+ARG TYC SPORTS SD|http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81253.ts
+ARG TYC SPORTS HD|http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81252.ts
+ARG TYC SPORTS INTERNACIONAL|http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81538.ts
+ARG TNT SPORTS|http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/361001.ts
+ARG ESPN HD|http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/306497.ts
+ARG ESPN 2 HD|http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/306486.ts
